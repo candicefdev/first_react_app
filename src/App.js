@@ -9,7 +9,7 @@ import './App.css';
 import SearchIcon from './search.svg'
 
 //used to fetch data about movies
-const API_URL = 'http://www.omdbapi.com?apikey=6348349c';
+const API_URL = 'https://www.omdbapi.com?apikey=6348349c';
 
 //to check if it's working
 const movie1 = {
